@@ -1,0 +1,10 @@
+// //Scope
+// Block scope-Variables declared inside a pair of curly 
+// braces cannot be accessed from outside the block.
+
+// Functon Scope -Varibles declared inside a function 
+// cannot not be accessed from outside the function
+
+// Global Scope -Globally Scope variable can be accessed 
+// inside a block of function.
+
